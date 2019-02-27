@@ -1,0 +1,596 @@
+# depslib dependency file v1.0
+1490622325 source:d:\tubes strukdat\child.cpp
+	<iostream>
+	<conio.h>
+	"child.h"
+	"child.h"
+
+1490626439 d:\tubes strukdat\child.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490625291 source:d:\tubes strukdat\parent.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"parent.h"
+
+1490625855 d:\tubes strukdat\parent.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490622325 source:d:\tubes strukdat\relasi.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+	"relasi.h"
+
+1490622187 d:\tubes strukdat\relasi.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	"parent.h"
+	"child.h"
+
+1490618501 source:d:\tubes strukdat\main.cpp
+	<iostream>
+
+1490919260 source:f:\tubes strukdat\main.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	"menu.h"
+
+1490950433 source:f:\tubes strukdat\child.cpp
+	<iostream>
+	<conio.h>
+	"child.h"
+
+1490943292 f:\tubes strukdat\child.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490950088 source:f:\tubes strukdat\parent.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"parent.h"
+
+1490949080 f:\tubes strukdat\parent.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490948369 source:f:\tubes strukdat\relasi.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+
+1490882715 f:\tubes strukdat\relasi.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	"parent.h"
+	"child.h"
+
+1490849618 source:e:\tugas besar std\tubes strukdat\child.cpp
+	<iostream>
+	<conio.h>
+	"child.h"
+
+1490849591 e:\tugas besar std\tubes strukdat\child.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490794768 source:e:\tugas besar std\tubes strukdat\main.cpp
+	<iostream>
+	"parent.h"
+	"child.h"
+	<conio.h>
+	"menu.h"
+
+1490799238 source:e:\tugas besar std\tubes strukdat\parent.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"parent.h"
+
+1490798979 e:\tugas besar std\tubes strukdat\parent.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490775427 source:e:\tugas besar std\tubes strukdat\relasi.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+
+1490775155 e:\tugas besar std\tubes strukdat\relasi.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	"parent.h"
+	"child.h"
+
+1490848810 e:\tugas besar std\tubes strukdat\menu.h
+	<stdlib.h>
+	<ctype.h>
+
+1490852212 source:e:\tugas besar std\tubes strukdat\menu.cpp
+	<iostream>
+	<conio.h>
+	"menu.h"
+	<stdlib.h>
+	<ctype.h>
+	"child.h"
+
+1490944277 f:\tubes strukdat\menu.h
+	<stdlib.h>
+	<ctype.h>
+
+1490950016 source:f:\tubes strukdat\menu.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"child.h"
+	"parent.h"
+	"relasi.h"
+
+1490950433 source:e:\s1 telkom\tubes\tubes strukdat realllllllll\child.cpp
+	<iostream>
+	<conio.h>
+	"child.h"
+
+1490943292 e:\s1 telkom\tubes\tubes strukdat realllllllll\child.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490919260 source:e:\s1 telkom\tubes\tubes strukdat realllllllll\main.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	"menu.h"
+
+1490882715 e:\s1 telkom\tubes\tubes strukdat realllllllll\relasi.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	"parent.h"
+	"child.h"
+
+1490949080 e:\s1 telkom\tubes\tubes strukdat realllllllll\parent.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490944277 e:\s1 telkom\tubes\tubes strukdat realllllllll\menu.h
+	<stdlib.h>
+	<ctype.h>
+
+1490950088 source:e:\s1 telkom\tubes\tubes strukdat realllllllll\parent.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"parent.h"
+
+1490976078 source:e:\s1 telkom\tubes\tubes strukdat realllllllll\relasi.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+
+1490976078 source:e:\s1 telkom\tubes\tubes strukdat realllllllll\menu.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"child.h"
+	"parent.h"
+	"relasi.h"
+
+1490950433 source:e:\s1 telkom\tubes\tkt ggl\tubes strukdat realllllllll\child.cpp
+	<iostream>
+	<conio.h>
+	"child.h"
+
+1490943292 e:\s1 telkom\tubes\tkt ggl\tubes strukdat realllllllll\child.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490919260 source:e:\s1 telkom\tubes\tkt ggl\tubes strukdat realllllllll\main.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	"menu.h"
+
+1490882715 e:\s1 telkom\tubes\tkt ggl\tubes strukdat realllllllll\relasi.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	"parent.h"
+	"child.h"
+
+1490949080 e:\s1 telkom\tubes\tkt ggl\tubes strukdat realllllllll\parent.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490944277 e:\s1 telkom\tubes\tkt ggl\tubes strukdat realllllllll\menu.h
+	<stdlib.h>
+	<ctype.h>
+
+1490981007 source:e:\s1 telkom\tubes\tkt ggl\tubes strukdat realllllllll\menu.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"child.h"
+	"parent.h"
+	"relasi.h"
+
+1490950088 source:e:\s1 telkom\tubes\tkt ggl\tubes strukdat realllllllll\parent.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"parent.h"
+
+1490979731 source:e:\s1 telkom\tubes\tkt ggl\tubes strukdat realllllllll\relasi.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+
+1491017771 source:f:\tubes struk data\child.cpp
+	<iostream>
+	<conio.h>
+	"child.h"
+
+1491017687 f:\tubes struk data\child.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490919260 source:f:\tubes struk data\main.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	"menu.h"
+
+1491025731 f:\tubes struk data\relasi.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	"parent.h"
+	"child.h"
+
+1491016596 f:\tubes struk data\parent.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490944277 f:\tubes struk data\menu.h
+	<stdlib.h>
+	<ctype.h>
+
+1491024874 source:f:\tubes struk data\parent.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"parent.h"
+
+1491025731 source:f:\tubes struk data\relasi.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+
+1491027284 source:f:\tubes struk data\menu.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	"menu.h"
+	"child.h"
+	"parent.h"
+	"relasi.h"
+
+1491187314 source:d:\tubes struk data\child.cpp
+	<iostream>
+	<conio.h>
+	"child.h"
+
+1491226152 d:\tubes struk data\child.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490919260 source:d:\tubes struk data\main.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	"menu.h"
+
+1491226092 d:\tubes struk data\relasi.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	"parent.h"
+	"child.h"
+
+1491226152 d:\tubes struk data\parent.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490944277 d:\tubes struk data\menu.h
+	<stdlib.h>
+	<ctype.h>
+
+1491188203 source:d:\tubes struk data\menu.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	"menu.h"
+	"child.h"
+	"parent.h"
+	"relasi.h"
+
+1491024874 source:d:\tubes struk data\parent.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"parent.h"
+
+1491226073 source:d:\tubes struk data\relasi.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+
+1491232635 source:e:\tugas besar std\tubes struk data\child.cpp
+	<iostream>
+	<conio.h>
+	"child.h"
+
+1491228792 e:\tugas besar std\tubes struk data\child.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490919260 source:e:\tugas besar std\tubes struk data\main.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	"menu.h"
+
+1491226092 e:\tugas besar std\tubes struk data\relasi.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	"parent.h"
+	"child.h"
+
+1491226152 e:\tugas besar std\tubes struk data\parent.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490944277 e:\tugas besar std\tubes struk data\menu.h
+	<stdlib.h>
+	<ctype.h>
+
+1491231544 source:e:\tugas besar std\tubes struk data\menu.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	"menu.h"
+	"child.h"
+	"parent.h"
+	"relasi.h"
+
+1491233289 source:e:\tugas besar std\tubes struk data\parent.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"parent.h"
+
+1491226073 source:e:\tugas besar std\tubes struk data\relasi.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+
+1491413124 source:f:\dedih\tubes struk data\child.cpp
+	<iostream>
+	<conio.h>
+	"child.h"
+
+1491413124 f:\dedih\tubes struk data\child.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490919262 source:f:\dedih\tubes struk data\main.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	"menu.h"
+
+1491419678 f:\dedih\tubes struk data\relasi.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	"parent.h"
+	"child.h"
+
+1491416240 f:\dedih\tubes struk data\parent.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490944278 f:\dedih\tubes struk data\menu.h
+	<stdlib.h>
+	<ctype.h>
+
+1491421906 source:f:\dedih\tubes struk data\menu.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	"menu.h"
+	"child.h"
+	"parent.h"
+	"relasi.h"
+
+1491420522 source:f:\dedih\tubes struk data\parent.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"parent.h"
+
+1491419680 source:f:\dedih\tubes struk data\relasi.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+
+1491413124 source:f:\ \dedih\tubes struk data\child.cpp
+	<iostream>
+	<conio.h>
+	"child.h"
+
+1491413124 f:\ \dedih\tubes struk data\child.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490919262 source:f:\ \dedih\tubes struk data\main.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+	"parent.h"
+	"child.h"
+	"menu.h"
+
+1491419678 f:\ \dedih\tubes struk data\relasi.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+	"parent.h"
+	"child.h"
+
+1491416240 f:\ \dedih\tubes struk data\parent.h
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<stdlib.h>
+	<string>
+
+1490944278 f:\ \dedih\tubes struk data\menu.h
+	<stdlib.h>
+	<ctype.h>
+
+1491465306 source:f:\ \dedih\tubes struk data\menu.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	"menu.h"
+	"child.h"
+	"parent.h"
+	"relasi.h"
+
+1491420522 source:f:\ \dedih\tubes struk data\parent.cpp
+	<iostream>
+	<conio.h>
+	"parent.h"
+	"parent.h"
+
+1491465306 source:f:\ \dedih\tubes struk data\relasi.cpp
+	<iostream>
+	<conio.h>
+	"relasi.h"
+
